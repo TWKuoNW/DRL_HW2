@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="banner.png" alt="Q-learning vs SARSA" width="600"/>
+</p>
+
 # HW2：Q-learning 與 SARSA 演算法之比較研究
 
-Cliff Walking 強化學習實驗報告
+> Cliff Walking 強化學習實驗報告
 
 ## 實驗目的
 
